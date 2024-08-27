@@ -128,7 +128,7 @@ export default function Page() {
             className="underline"
             href={`${process.env.NEXT_PUBLIC_APP_URL}/api/v1`}
           >
-            rdt.li/docs
+            {`${process.env.NEXT_PUBLIC_APP_URL}/docs`}
           </Link>
         </AlertDescription>
       </Alert>

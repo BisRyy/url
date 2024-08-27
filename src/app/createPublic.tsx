@@ -152,7 +152,7 @@ export default function Page() {
                 <FormControl>
                   <Input
                     className="text-center font-mono placeholder:text-slate-400"
-                    placeholder="https://github.com/nrjdalal"
+                    placeholder="https://github.com/BisRyy"
                     {...field}
                   />
                 </FormControl>
